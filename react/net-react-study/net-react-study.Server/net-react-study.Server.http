@@ -1,0 +1,6 @@
+@net_react_study.Server_HostAddress = http://localhost:5041
+
+GET {{net_react_study.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

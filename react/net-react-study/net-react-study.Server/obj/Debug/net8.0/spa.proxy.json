@@ -1,0 +1,10 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:5173",
+"RedirectUrl": "",
+"LaunchCommand": "npm run dev",
+"WorkingDirectory": "C:\\Users\\HP250\\Documents\\git\\IReddiska\\react\\net-react-study\\net-react-study.Server\\..\\net-react-study.client",
+"MaxTimeoutInSeconds": "120",
+"KeepRunning": "false"
+}
+}
